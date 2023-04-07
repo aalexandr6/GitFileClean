@@ -1,0 +1,1 @@
+alias gfc="~/git-file-cleanup.sh"
